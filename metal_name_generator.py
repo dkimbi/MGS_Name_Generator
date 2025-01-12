@@ -109,7 +109,7 @@ if __name__ == "__main__":
     entries = main(n, separator, extended)
 
     for i in entries:
-        print i
+        print (i)
 
     exit()
 
